@@ -2,9 +2,11 @@
 
 ## Overview
 This project was developed as part of a technical exercise. It demonstrates a full-stack web application with authentication, CRUD operations, and a responsive user interface.
+Also This Project has many services, as of now the services only service has done is this rental part.
 
 ## Features
 - User authentication
+- User Validation
 - Dashboard
 - CRUD functionality
 - Responsive design
@@ -13,7 +15,7 @@ This project was developed as part of a technical exercise. It demonstrates a fu
 - Real-time chat between tenant and landlord (Webhook)
 - Password reset (Gmail)
 - Billing
-- Payment integration (removed from this repository due to project owner concerns)
+- Payment service (removed from this repository due to project owner concerns)
 
 ## Tech Stack
 - Frontend: React.js
